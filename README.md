@@ -1,1 +1,1 @@
-# find-a-way.cf
+# findaway.cf
